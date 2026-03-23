@@ -19211,7 +19211,7 @@
     "id": "voxtral-transcribe",
     "name": "Voxtral Transcribe",
     "author": "maxonamission",
-    "description": "Transcribe audio files using Mistral AI's Voxtral model.",
-    "repo": "maxonamission/voxtral-transcribe"
+    "description": "Speech-to-text dictation using Mistral Voxtral. Supports real-time streaming, voice commands (headings, lists, to-dos), and automatic text correction.",
+    "repo": "maxonamission/obsidian-voxtral"
   }
 ]
