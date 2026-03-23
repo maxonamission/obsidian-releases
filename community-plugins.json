@@ -19124,13 +19124,6 @@
     "repo": "eoliversec/obsidian-capitalise-plugin"
   },
   {
-    "id": "voxtral-transcribe",
-    "name": "Voxtral Transcribe",
-    "author": "Max Kloosterman",
-    "description": "Speech-to-text dictation using Mistral Voxtral. Supports real-time streaming, voice commands (headings, lists, to-dos), and automatic text correction.",
-    "repo": "maxonamission/obsidian-voxtral"
-  },
-  {
     "id": "tiktoker",
     "name": "TikToker",
     "author": "ameyxd",
@@ -19213,5 +19206,12 @@
     "description": "Content-addressed attachment storage for automatic deduplication. Works entirely locally; optionally uses GitHub private repositories for hosting.",
     "author": "NateScarlet",
     "repo": "NateScarlet/obsidian-content-addressed-attachments"
+  },
+  {
+    "id": "voxtral-transcribe",
+    "name": "Voxtral Transcribe",
+    "author": "maxonamission",
+    "description": "Transcribe audio files using Mistral AI's Voxtral model.",
+    "repo": "maxonamission/voxtral-transcribe"
   }
 ]
